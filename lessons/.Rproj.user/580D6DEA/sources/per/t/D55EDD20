@@ -1,0 +1,26 @@
+{
+    "id": "D55EDD20",
+    "path": "C:/Users/lgaka/Downloads/shiny_learn/lessons/stockVis/split/server.R",
+    "project_path": "stockVis/split/server.R",
+    "type": "r_source",
+    "hash": "1209812790",
+    "contents": "",
+    "dirty": false,
+    "created": 1717356004289.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "13,39",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1717358161,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1717358161732,
+    "read_only": false,
+    "read_only_alternatives": []
+}

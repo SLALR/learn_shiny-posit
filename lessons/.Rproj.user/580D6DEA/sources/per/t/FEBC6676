@@ -1,0 +1,26 @@
+{
+    "id": "FEBC6676",
+    "path": "C:/Users/lgaka/Downloads/shiny_learn/lessons/stockVis/app.R",
+    "project_path": "stockVis/app.R",
+    "type": "r_source",
+    "hash": "3669865090",
+    "contents": "",
+    "dirty": false,
+    "created": 1717355818808.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "72,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1717357019,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1717357019970,
+    "read_only": false,
+    "read_only_alternatives": []
+}
