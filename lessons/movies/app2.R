@@ -19,7 +19,7 @@ load("movies.RData")
 
 # Define UI --------------------------------------------------------------------
 
-ui <- page_sidebar(
+ui <- bslib::page_sidebar(
   sidebar = sidebar(
     # Select variable for y-axis
     selectInput(
@@ -71,9 +71,9 @@ ui <- page_sidebar(
 # Define server ----------------------------------------------------------------
 
 server <- function(input, output, session) {
-  output$scatterplot <- renderTable({
+  output$scatterPlot <- shiny::renderPlot({
 
-    ggplot(data = movies, aes_string(x = x, y = y, color = z)) +
+    ggplot(data = movies, aes_string(x = input$x, y = input$y, color = input$z)) +
       geom_point()
 
   })
